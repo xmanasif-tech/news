@@ -1,0 +1,6 @@
+{
+  "name": "BD & World News",
+  "description": "Bilingual English and Bengali daily news aggregator for Bangladesh and global updates with date-wise digests, offline bookmarks, and live Google Search grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

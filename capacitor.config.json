@@ -1,0 +1,13 @@
+{
+  "appId": "com.bdworldnews.app",
+  "appName": "BD & World News",
+  "webDir": "dist",
+  "server": {
+    "url": "https://ais-pre-2iled3ajarj2xqan7da4hx-642243976702.asia-east1.run.app",
+    "cleartext": false
+  },
+  "android": {
+    "allowMixedContent": false,
+    "backgroundColor": "#0D1211"
+  }
+}
